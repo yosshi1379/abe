@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+}
+
+.header-long {
+    font-size: 50px;
+    text-align: center;
+} 
+
+body {
+    display: flex;
+
+}
